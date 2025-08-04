@@ -1,3 +1,4 @@
 # requirements.txtname: app_environment
 snowflake-snowpark-python
 streamlit
+requests
